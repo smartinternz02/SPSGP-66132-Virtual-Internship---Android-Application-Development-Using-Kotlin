@@ -17,3 +17,8 @@ Grocery delivery mobile app development is a great way to save time and money. Y
 
 ![image](https://user-images.githubusercontent.com/84307436/192827360-7b1d9c01-03cb-4a96-9c8d-d76bed66f4ba.png)
 
+# DEMO VIDEO
+
+
+https://user-images.githubusercontent.com/84307436/193043178-618ad0a7-528f-4973-966a-edb8dc679906.mp4
+
